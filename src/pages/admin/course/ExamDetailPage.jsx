@@ -11,7 +11,7 @@ import {
   getRole
 } from "../../../utils/auth";
 
-import ExamRuleBuilder from "./exams/ExamRuleBuilder";
+import ExamRuleBuilder from "./ExamRuleBuilder";
 
 export default function ExamDetailPage() {
 
